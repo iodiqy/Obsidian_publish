@@ -6,7 +6,7 @@ tags: #medicine #5thcourse #inprogress
 3. [[Acute respiratory failure]]
 	- [[Acid-base disorders]]
 4. [[Acute cardiac failure.]]
-	- Acute coronary syndrom
+	- Acute coronary syndrome
 5. Transfusion. Indications for hemotransfusion
 6. Systemic inflammatory response syndrome (SIRS)
 	- [[Sepsis. Septic shock.]]
