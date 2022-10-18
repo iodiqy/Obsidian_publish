@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Farkhad's Personal Notes.
 enableToc: false
 ---
 
