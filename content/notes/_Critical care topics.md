@@ -2,7 +2,7 @@ tags: #medicine #5thcourse #inprogress
 
 ## Themes:
 1. Organization of intensive care
-2. [[Coma._Stupor_and_Sopor.]]
+2. [[Coma. Stupor and Sopor.]]
 3. [[Acute respiratory failure]]
 	- [[Acid-base disorders]]
 4. [[Acute cardiac failure.]]
